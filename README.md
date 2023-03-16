@@ -1,6 +1,6 @@
-# C-Cpp_Exercises
-This is my C/C++ exercises
+# Learn-Cpp
 
+This is where my Cplusplus exercises and notes are stored
 
 // Standard Template Library (STL) in C++ 
 #include <bits/stdc++.h>
