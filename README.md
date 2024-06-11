@@ -216,33 +216,52 @@ int main(){
 
 	
 	_____________________________ RUN _____________________________
-
 Max = 6
-Min = 1
-Max = 17
-Min = -10
-Sum arr = 27
-Sum vtr = 21
-Mang b sau khi sap xep tang dan: -10, 1, 5, 6, 9, 
-Vector c sau khi sap xep giam dan: 12, 7, 4, -5, -9, 
-String str sau khi sap xep: c, c++, java, python, sql, 
-Mang d sau khi sap xep: -4, -1, 3, 4, -1, 2, 10, -2, 
-FIND: NOT FOUND
-FIND: FOUND
-BINARY SEARCH: NOT FOUND
-Biến thành 0: 0, 0, 0, 0, 0, 
-Biến thành -1: -1, -1, -1, -1, -1, 
-Mang k: 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 
-Merge (TRỘN): 1, 1, 1, 2, 2, 3, 3, 4, 5, 16, 0, 0, 0, 
-Reverse integer: 9, 7, 5, 3, 1, 
-Reverse string: ytiC retsehcnaM
-q[] = {1, 2, 3, 4, 5, 8}
-r[] = {1, 3, 4, 5, 6, 11}
-set_union(HỢP): 1, 2, 3, 4, 5, 6, 8, 11, 
-set_intersection (GIAO): 1, 3, 4, 5, 
-set_difference: 2, 8, 
-set_symmetric_difference (Hợp - Giao): 2, 6, 8, 11, 
 
-	
-	
-	
+Min = 1
+
+Max = 17
+
+Min = -10
+
+Sum arr = 27
+
+Sum vtr = 21
+
+Mang b sau khi sap xep tang dan: -10, 1, 5, 6, 9, 
+
+Vector c sau khi sap xep giam dan: 12, 7, 4, -5, -9, 
+
+String str sau khi sap xep: c, c++, java, python, sql, 
+
+Mang d sau khi sap xep: -4, -1, 3, 4, -1, 2, 10, -2, 
+
+FIND: NOT FOUND
+
+FIND: FOUND
+
+BINARY SEARCH: NOT FOUND
+
+Biến thành 0: 0, 0, 0, 0, 0, 
+
+Biến thành -1: -1, -1, -1, -1, -1, 
+
+Mang k: 100, 100, 100, 100, 100, 100, 100, 100, 100, 100, 
+
+Merge (TRỘN): 1, 1, 1, 2, 2, 3, 3, 4, 5, 16, 0, 0, 0, 
+
+Reverse integer: 9, 7, 5, 3, 1, 
+
+Reverse string: ytiC retsehcnaM
+
+q[] = {1, 2, 3, 4, 5, 8}
+
+r[] = {1, 3, 4, 5, 6, 11}
+
+set_union(HỢP): 1, 2, 3, 4, 5, 6, 8, 11, 
+
+set_intersection (GIAO): 1, 3, 4, 5, 
+
+set_difference: 2, 8, 
+
+set_symmetric_difference (Hợp - Giao): 2, 6, 8, 11, 
