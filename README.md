@@ -2,16 +2,22 @@
 
 This is where my Cplusplus exercises and notes are stored
 
+
 // Standard Template Library (STL) in C++ 
+
 #include <bits/stdc++.h>
+
 using namespace std;
 
+
 bool cmp(int a, int b){  //state_sort
+
     return abs(a) < abs(b);
 }
 
 int main(){
-	//// max, min
+
+    //// max, min
     int a[6] = {1, 6, 9, 11, -4, 17};
     vector<int> v = {4, 7, -10, 11};
     cout << "Max = " << max(1, 6) << endl;
@@ -214,7 +220,6 @@ int main(){
     return 0;
 }
 
-	
 	_____________________________ RUN _____________________________
 Max = 6
 
